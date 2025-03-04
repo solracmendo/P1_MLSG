@@ -6,7 +6,7 @@
 - **Curso:** 2024/2025
 - **Grupo:** P1_MLSG
 ## Descripción
-En este parte se analizan los algoritmos del bandido de k-brazos, comparando su rendimiento en
+En este ejercicio se analizan los algoritmos del bandido de k-brazos, comparando su rendimiento en
 entornos estacionarios. Para ello se implementan varias familias de métodos: -greedy, UCB, ascenso
 del gradiente, evaluando las recompensas y rechazos acumulados.
 
